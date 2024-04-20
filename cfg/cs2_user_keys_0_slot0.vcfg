@@ -1,0 +1,18 @@
+"config"
+{
+	"bindings"
+	{
+		"f"		"slot7"
+		"v"		"+lookatweapon"
+		"SPACE"		"+jump"
+		"MOUSE1"		"+attack"
+		"MWHEELUP"		"+jump"
+		"'"		"toggleconsole"
+		"`"		"<unbound>"
+		"8"		"<unbound>"
+		"c"		"slot8"
+		"0"		"<unbound>"
+		"x"		"slot10"
+		"7"		"<unbound>"
+	}
+}
